@@ -1,7 +1,6 @@
 /*****************************************************************************************
 *  Program Name	:	AOLSpamFlagGrabber.java
 *  Author		:	Caleb Glave
-*  Last Modified:	10-30-2012
 *  Description	:	Simple program to parse the email addresses out of the attachments
 *					sent via the AOL and Hotmail feedback loops, so that those flagging
 *					our email as SPAM may be removed from the subscriber list easier.
